@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PolylineTools-672.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Engine 4\PLUGINS\Plugin_Maker\Intermediate\Build\Win64\Plugin_MakerEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Engine 4\PLUGINS\Plugin_Maker\Plugins\PolylineTools\Intermediate\Build\Win64\UE4Editor\Development\PolylineTools\Module.PolylineTools.cpp.obj"
+"D:\Unreal Engine 4\PLUGINS\Plugin_Maker\Plugins\PolylineTools\Intermediate\Build\Win64\UE4Editor\Development\PolylineTools\Module.PolylineTools.gen.cpp.obj"
+"D:\Unreal Engine 4\PLUGINS\Plugin_Maker\Plugins\PolylineTools\Intermediate\Build\Win64\UE4Editor\Development\PolylineTools\PCLaunch.rc.res"
+/OUT:"D:\Unreal Engine 4\PLUGINS\Plugin_Maker\Plugins\PolylineTools\Intermediate\Build\Win64\UE4Editor\Development\PolylineTools\UE4Editor-PolylineTools-672.lib"
